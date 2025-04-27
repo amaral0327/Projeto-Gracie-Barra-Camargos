@@ -1,0 +1,6 @@
+@ProjetoGracieBarraCamargos_HostAddress = http://localhost:5119
+
+GET {{ProjetoGracieBarraCamargos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
