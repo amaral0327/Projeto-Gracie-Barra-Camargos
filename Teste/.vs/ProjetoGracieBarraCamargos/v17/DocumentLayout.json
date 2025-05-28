@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Projeto-Gracie-Barra-Camargos\\ProjetoGracieBarraCamargos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A75C5C26-319D-4AAD-BBD1-92EA4DC24E5F}|ProjetoGracieBarraCamargos.csproj|e:\\projeto-gracie-barra-camargos\\projetograciebarracamargos\\data\\graciebarracamargoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75C5C26-319D-4AAD-BBD1-92EA4DC24E5F}|ProjetoGracieBarraCamargos.csproj|solutionrelative:data\\graciebarracamargoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A75C5C26-319D-4AAD-BBD1-92EA4DC24E5F}|ProjetoGracieBarraCamargos.csproj|e:\\projeto-gracie-barra-camargos\\projetograciebarracamargos\\models\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A75C5C26-319D-4AAD-BBD1-92EA4DC24E5F}|ProjetoGracieBarraCamargos.csproj|solutionrelative:models\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GracieBarraCamargosContext.cs",
+              "DocumentMoniker": "E:\\Projeto-Gracie-Barra-Camargos\\ProjetoGracieBarraCamargos\\Data\\GracieBarraCamargosContext.cs",
+              "RelativeDocumentMoniker": "Data\\GracieBarraCamargosContext.cs",
+              "ToolTip": "E:\\Projeto-Gracie-Barra-Camargos\\ProjetoGracieBarraCamargos\\Data\\GracieBarraCamargosContext.cs",
+              "RelativeToolTip": "Data\\GracieBarraCamargosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:56:36.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Presenca.cs",
               "DocumentMoniker": "E:\\Projeto-Gracie-Barra-Camargos\\ProjetoGracieBarraCamargos\\Models\\Presenca.cs",
               "RelativeDocumentMoniker": "Models\\Presenca.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Treino.cs",
               "DocumentMoniker": "E:\\Projeto-Gracie-Barra-Camargos\\ProjetoGracieBarraCamargos\\Models\\Treino.cs",
               "RelativeDocumentMoniker": "Models\\Treino.cs",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "E:\\Projeto-Gracie-Barra-Camargos\\ProjetoGracieBarraCamargos\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
